@@ -40,6 +40,6 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 
 ## API Terms
 
-**Commercial use of the API is only permitted in video and streaming contexts**  
+**Commercial use of content (streamed via the API) is only permitted in video and streaming contexts**  
 (e.g., YouTube, Twitch, or similar platforms).  
 All other commercial uses are prohibited. See [API_TERMS.md](./API_TERMS.md).
